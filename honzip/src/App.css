@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#back-img{
+  background-image: url(./img/main_background.jpg);
+  width: 100%;
+  height: 100%;
+}
